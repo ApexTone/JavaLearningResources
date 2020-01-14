@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ae9265f-d65b-4511-9f34-86d0762cae50" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../VisualStudioCode/11Interface/.idea/11Interface.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/CompositionClassDesign/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/CompositionClassDesign/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/CompositionClassDesign/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/CompositionClassDesign/PersonName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/CompositionClassDesign/PersonV2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/CompositionClassDesign2/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/CompositionClassDesign2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/CompositionClassDesign2/Match.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/CompositionClassDesign2/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/CompositionClassDesign2/Team.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/Constructor/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/Constructor/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/Constructor/Patient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/Constructor/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/Constructor/Word.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/DefaultInterface/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/DefaultInterface/Camera.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/DefaultInterface/ICamera.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/DefaultInterface/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/Dice/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/Dice/Dice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/Dice/DiceV2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/Dice/DiceV3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/Dice/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/FileInteraction/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/FileInteraction/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/FileInteraction/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/FileInteraction/unicodeTable.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/Inheritance/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/Inheritance/Address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/Inheritance/ExchangeStudent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/Inheritance/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/Inheritance/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/Inheritance/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/InheritancePolymorphism/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/InheritancePolymorphism/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/InheritancePolymorphism/MemberCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/InheritancePolymorphism/MemberCardV2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/InheritancePolymorphism/PlatinumCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/InheritancePolymorphism/SilverCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/Interface/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/Interface/ICamera.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/Interface/IPhone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/Interface/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/Interface/Sedan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/Interface/SmartPhone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/Interface/Truck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/Interface/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/InterfacePolymorphism/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/InterfacePolymorphism/GoldCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/InterfacePolymorphism/IMemberCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/InterfacePolymorphism/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/InterfacePolymorphism/PlatinumCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/InterfacePolymorphism/SilverCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/Java_FirstProject/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/Java_FirstProject/BoxV1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/Java_FirstProject/BoxV2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/Java_FirstProject/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/LocalDate/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/LocalDate/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/Overloading/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/Overloading/Discount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/Overloading/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/Overloading/SimpleAdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/Overriding/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/Overriding/GoldCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/Overriding/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/Overriding/MemberCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/Overriding/PlatinumCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/Overriding/SilverCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/ReadingInput/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/ReadingInput/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/Static/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/Static/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/Static/Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/TelContact/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/TelContact/Contact.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/TelContact/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VisualStudioCode/TelContact/Utilities.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashMap/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashMap/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashMap/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashMap/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashMap/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashMap/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashMap/HashMap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashMap/out/production/HashMap/Country.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashMap/out/production/HashMap/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashMap/src/Country.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashMap/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stack/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stack/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stack/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stack/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stack/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stack/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stack/Stack.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stack/out/production/Stack/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stack/out/production/Stack/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stack/out/production/Stack/Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stack/out/production/Stack/StackCalculation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stack/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stack/src/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stack/src/Stack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stack/src/StackCalculation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestIntelliJ/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestIntelliJ/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestIntelliJ/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestIntelliJ/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestIntelliJ/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestIntelliJ/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestIntelliJ/ideaProjects.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestIntelliJ/out/production/ideaProjects/CardboardBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestIntelliJ/out/production/ideaProjects/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestIntelliJ/src/CardboardBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestIntelliJ/src/Drink.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestIntelliJ/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TreeMap/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TreeMap/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TreeMap/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TreeMap/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TreeMap/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TreeMap/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TreeMap/TreeMap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TreeMap/out/production/TreeMap/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TreeMap/src/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Predator\Desktop\Coding\Code\Java\ideaProjects\LinkedList\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WHYRIyVEixA9sSpk6nfMfBeH3H" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="LinkedList" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ae9265f-d65b-4511-9f34-86d0762cae50" name="Default Changelist" comment="" />
+      <created>1578807978545</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578807978545</updated>
+      <workItem from="1578807987944" duration="1146000" />
+      <workItem from="1578844512781" duration="1200000" />
+      <workItem from="1578880678041" duration="98000" />
+      <workItem from="1578901102138" duration="110000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="237" key="#com.intellij.ide.util.MemberChooser" timestamp="1578808122174">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1578808122174" />
+    <state x="676" y="239" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1578808588639">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="676" y="239" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578808588639" />
+    <state x="739" y="262" key="FileChooserDialogImpl" timestamp="1578901192401">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1578901192401" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1578880776187">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578880776187" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1578880776187">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578880776187" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1578880776186">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578880776186" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1578880776187">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578880776187" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1578845714308">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578845714308" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1578845714308">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578845714308" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1578845714308">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578845714308" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1578845714308">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578845714308" />
+    <state x="182" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1578901117497">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="182" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578901117497" />
+    <state x="342" y="141" key="new project wizard" timestamp="1578901210055">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="141" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1578901210055" />
+  </component>
+</project>

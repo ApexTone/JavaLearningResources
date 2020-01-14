@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Prank:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Prank_jar</output-path>
+    <root id="archive" name="Prank.jar">
+      <element id="module-output" name="Prank" />
+    </root>
+  </artifact>
+</component>
