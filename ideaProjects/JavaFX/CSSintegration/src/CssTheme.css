@@ -1,0 +1,25 @@
+/*Set for generic of the window*/
+.root{
+    -fx-background-color: #00FFFF;/*background color*/
+    -fx-font-size: 15;/*font size*/
+}
+
+/*Apply the style to all obj from this class if not specifically told to do other*/
+.label{
+    -fx-text-fill: #004400;
+}
+
+.button{
+    -fx-background-color: linear-gradient(#e84844, #91433f);/*Make gradient*/
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 6;/*Make button round*/
+}
+.button-blue{/*Make style class: use difference name than the generic one*/
+    -fx-background-color: linear-gradient(#7CAFC2, #197691);/*Make gradient*/
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 6;/*Make button round*/
+}
+
+#bold-label{/*Make new ID*/
+    -fx-font-weight: bold;/*Make font bold*/
+}
