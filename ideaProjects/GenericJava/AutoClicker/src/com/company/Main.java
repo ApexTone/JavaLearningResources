@@ -7,10 +7,10 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
-        System.out.println("How many click?: ");
-        int clicks = s.nextInt();
+        System.out.println("How many click? : ");
+        int clicks = /*s.nextInt();*/5;
         System.out.println("How long between each delay?: ");
-        int delay = s.nextInt();
+        int delay = /*s.nextInt();*/11000;
 
         AutoClicker ac = new AutoClicker();
         ac.setDelay(delay);

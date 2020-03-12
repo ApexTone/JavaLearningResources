@@ -1,9 +1,9 @@
 /**
  * LinkedList
  */
-public class LinkedList {
+public class LinkedList<T> {
 
-    private Node curr, head, prev, newNode;
+    private Node<T> curr, head, prev, newNode;
 
     //Constructor
     public LinkedList() {
@@ -11,19 +11,19 @@ public class LinkedList {
         curr = head;
         prev = null;
     }
-    public LinkedList(int data) {
-        head = new Node(data);
+    public LinkedList(T data) {
+        head = new Node<T>(data);
         curr = head;
         prev = null;
     }
 
     //Push/pop
-    public void push_front(int data) {//adding data to front of the list
-        System.out.println("Adding node!:" + data);
+    public void push_front(T data) {//adding data to front of the list
+        System.out.println("Adding node!: " + data);
         if (head == null) {
-            newNode = new Node(data);
+            newNode = new Node<T>(data);
         } else {
-            newNode = new Node(data, head);
+            newNode = new Node<T>(data, head);
         }
         head = newNode;
     }
@@ -41,25 +41,25 @@ public class LinkedList {
         }
     }
 
-    public void insertData(int insertData,int afterData){//insertion in front of afterNode
+    public void insertData(T insertData,T afterData){//insertion in front of afterNode
         if(findNode(afterData)){//If found insertion area
             if(prev!=null){//If didn't find at head
                 System.out.println("Insertion complete!");
-                prev.setNextNode(new Node(insertData,curr));
+                prev.setNextNode(new Node<T>(insertData,curr));
             }
             else{//If find at head
                 System.out.println("Insert at head of list");
-                head = new Node(insertData,curr);
+                head = new Node<T>(insertData,curr);
             }
         }
         else{
             if(head==null){//if list is empty
                 System.out.println("No head! Insert at head of list");
-                head = new Node(insertData,curr);
+                head = new Node<T>(insertData,curr);
             }
             else if(curr == null){//if end of list
                 System.out.println("Can't find insertion node. Insert at end of list");
-                prev.setNextNode(new Node(insertData));
+                prev.setNextNode(new Node<T>(insertData));
             }
         }
 
@@ -80,7 +80,7 @@ public class LinkedList {
     }
 
 
-    public void deleteNode(int data) {// Essentially stop "pointing" to the deleted node
+    public void deleteNode(T data) {// Essentially stop "pointing" to the deleted node
         if (findNode(data)) {//If found data
             if (prev == null) {// Delete head
                 head = curr.getNextNode();
@@ -93,7 +93,7 @@ public class LinkedList {
         }
     }
     // Utility for this class
-    private boolean findNode(int data) {// Finding data from head of list
+    private boolean findNode(T data) {// Finding data from head of list
         curr = head;
         prev = null;
         boolean found = false;

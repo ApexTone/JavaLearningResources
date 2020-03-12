@@ -3,6 +3,8 @@ import java.util.Random;
 public class Main {
     public static void main(String[] args) {
         demo2();
+        SmartPhone s = new SmartPhone();
+        System.out.println(SmartPhone.camera);
     }
 
     public static void demo1(){

@@ -15,6 +15,15 @@ public class AutoClicker {
         }
         delay = 300;
     }
+    public AutoClicker(int delay){
+        try{
+            robot = new Robot();
+        }
+        catch (Exception e){
+            e.printStackTrace();
+        }
+        this.delay = delay;
+    }
 
     public void setDelay(int delay) {
         this.delay = delay;
@@ -30,5 +39,9 @@ public class AutoClicker {
         catch (Exception e){
             e.printStackTrace();
         }
+    }
+
+    public void setMousePosition(int x,int y){
+        robot.mouseMove(x,y);
     }
 }

@@ -1,33 +1,33 @@
-public class Node {
-    private Node nextNode;///point to next node
-    private int data;//store data
+public class Node <T>{
+    private Node<T> nextNode;///point to next node
+    private T data;//store data
 
     //Constructor
     public Node(){
         this.nextNode=null;
     }
-    public Node(int data){
+    public Node(T data){
         this.data=data;
         this.nextNode=null;
     }
-    public Node(int data,Node nextNode){
+    public Node(T data,Node<T> nextNode){
         this.data=data;
         this.nextNode=nextNode;
     }
 
     //Getters
-    public int getData() {
+    public T getData() {
         return data;
     }
-    public Node getNextNode() {
+    public Node<T> getNextNode() {
         return nextNode;
     }
 
     //Setters
-    public void setData(int data) {
+    public void setData(T data) {
         this.data = data;
     }
-    public void setNextNode(Node nextNode) {
+    public void setNextNode(Node<T> nextNode) {
         this.nextNode = nextNode;
     }
 }
