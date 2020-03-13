@@ -6,7 +6,7 @@ import java.awt.event.InputEvent;
 public class DynedClicker {
     public static void main(String[] args) {
         //findPosition();
-        lessonClicker(4,6,2);
+        lessonClicker(3,6,2);
     }
 
     public static void lessonClicker(int times,int rep,int speak){
@@ -22,7 +22,7 @@ public class DynedClicker {
         System.out.println("Started");
         for (int i = 0; i < times ; i++) {
             //Repeat
-            ac.setDelay(9000);
+            ac.setDelay(12000);
             for (int j = 0; j < rep; j++) {
                 ac.setMousePosition(914,927);
                 ac.clickMouse(InputEvent.BUTTON1_DOWN_MASK);
@@ -45,7 +45,7 @@ public class DynedClicker {
             ac.clickMouse(InputEvent.BUTTON1_DOWN_MASK);
 
             //Next
-            ac.setDelay(3000);
+            ac.setDelay(5000);
             ac.setMousePosition(992,936);
             ac.clickMouse(InputEvent.BUTTON1_DOWN_MASK);
         }
